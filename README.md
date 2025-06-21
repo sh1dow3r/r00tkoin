@@ -227,7 +227,7 @@ This software is provided for educational and authorized security testing purpos
 
 ## License
 
-GPL v2 - See LICENSE file for details.
+MIT License
 
 ## Author
 
